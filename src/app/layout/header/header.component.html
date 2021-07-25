@@ -48,6 +48,7 @@
       <a
         *ngIf="email"
         (click)="handleSignOut()"
+        [routerLink]="['/']"
         class="nav-item nav-link text-warning"
         >Log Out</a
       >
