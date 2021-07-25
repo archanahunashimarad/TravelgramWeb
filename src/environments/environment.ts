@@ -5,7 +5,7 @@
 export const environment = {
   production: true,
  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-firebase :{
+ firebase :{
   apiKey: "AIzaSyDPEDj-C25qCgPMCx5V9V07HF62Yr2GK4s",
   authDomain: "travelgram-43cc3.firebaseapp.com",
   databaseURL: "https://travelgram-43cc3-default-rtdb.firebaseio.com",
